@@ -41,6 +41,7 @@ _Deadlines are interpreted differently between institutions. See full descriptio
 - [Westmont College](#westmont) - February 1 (rolling) 
 - [Barnard College](#barnard) - _ad forthcoming_
 - [Grinnell College](#grinnell) - _ad forthcoming_
+- [Colgate University](#colgate) - _ad forthcoming_
 - [James Madison University](#jmu) - _ad forthcoming_
 
 ### Fixed-Term Positions
@@ -75,6 +76,11 @@ _[back to deadlines](#deadlines)_
 _[Excerpt] The Department of Computer Science at Bryn Mawr College invites applications for a full-time, tenure-track Assistant Professor position to begin August 1, 2022. We are seeking candidates specializing in any of the following areas: theory, algorithms, or systems. The successful candidate will contribute to the development and teaching of a diverse and inclusive undergraduate curriculum, including interdisciplinary programs and college-wide initiatives such as the 360 Program and the Emily Balch Seminars. The candidate will be expected to teach courses at all levels of the undergraduate program in computer science and to establish an active and successful research program. Candidates must have completed all Ph.D. requirements in Computer Science or a closely related field by the start date._
 - Applications received by **October 18, 2021** will receive full consideration.
 - [Link to application](https://www.brynmawr.edu/provost/open-faculty-positions/assistant-professor-computer-science)
+
+_[back to deadlines](#deadlines)_
+
+### <a name="colgate">[P] Colgate University (New York)</a>
+_[Excerpt] Hiring is approved - ad is expected soon_
 
 _[back to deadlines](#deadlines)_
 
